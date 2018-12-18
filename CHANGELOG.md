@@ -1,3 +1,18 @@
+<a name="7.0.0-beta.22"></a>
+# [7.0.0-beta.22](https://github.com/angular/flex-layout/compare/7.0.0-beta.21...7.0.0-beta.22) (2018-12-18)
+
+
+### Bug Fixes
+
+* **core:** allow for breakpoints with periods in them ([#921](https://github.com/angular/flex-layout/issues/921)) ([84e811b](https://github.com/angular/flex-layout/commit/84e811b)), closes [#776](https://github.com/angular/flex-layout/issues/776)
+* **core:** avoid race condition between registration and activation ([#923](https://github.com/angular/flex-layout/issues/923)) ([232fc6e](https://github.com/angular/flex-layout/commit/232fc6e))
+* **core:** clear recent styles after responsive deactivation ([#927](https://github.com/angular/flex-layout/issues/927)) ([d322ea7](https://github.com/angular/flex-layout/commit/d322ea7)), closes [#697](https://github.com/angular/flex-layout/issues/697) [#296](https://github.com/angular/flex-layout/issues/296)
+* **flex-offset:** correct type when using with 'strictNullChecks' ([#929](https://github.com/angular/flex-layout/issues/929)) ([21b6d29](https://github.com/angular/flex-layout/commit/21b6d29))
+* **fxLayoutGap:** account for responsive fxHide on children elements ([#931](https://github.com/angular/flex-layout/issues/931)) ([7759b6c](https://github.com/angular/flex-layout/commit/7759b6c)), closes [#606](https://github.com/angular/flex-layout/issues/606)
+* **fxLayoutGap:** respond correctly to layout changes ([#919](https://github.com/angular/flex-layout/issues/919)) ([676ddf7](https://github.com/angular/flex-layout/commit/676ddf7))
+
+
+
 <a name="7.0.0-beta.21"></a>
 # [7.0.0-beta.21](https://github.com/angular/flex-layout/compare/7.0.0-beta.20...7.0.0-beta.21) (2018-12-15)
 
